@@ -1,0 +1,1 @@
+Place optimized exported .glb files here, e.g. mascot.glb and lantern.glb.

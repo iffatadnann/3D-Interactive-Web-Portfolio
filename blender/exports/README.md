@@ -1,0 +1,1 @@
+Place optimized .glb/.gltf exports here before copying website-ready models into frontend/public/models/.

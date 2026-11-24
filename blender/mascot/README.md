@@ -1,0 +1,1 @@
+Save the editable Blender mascot project (.blend) and any source textures here.

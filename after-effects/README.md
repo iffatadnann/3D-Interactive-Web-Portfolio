@@ -1,0 +1,1 @@
+Save the editable .aep project and source assets here. Export the final MP4 to frontend/public/videos/.

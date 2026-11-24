@@ -1,0 +1,1 @@
+Store report drafts, diagrams, references, and final PDF here.
